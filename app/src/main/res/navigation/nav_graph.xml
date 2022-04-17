@@ -8,6 +8,6 @@
     <fragment
         android:id="@+id/animeList"
         tools:layout="@layout/fragment_anime_list"
-        android:name="com.example.apisample.AnimeListFragment"
+        android:name="com.example.apisample.ui.AnimeListFragment"
         android:label="AnimeList" />
 </navigation>

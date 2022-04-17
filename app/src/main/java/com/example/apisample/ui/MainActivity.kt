@@ -1,10 +1,11 @@
-package com.example.apisample
+package com.example.apisample.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
+import com.example.apisample.R
 import com.example.apisample.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
