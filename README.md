@@ -34,3 +34,7 @@ The repository provides a simple API request example:
 2. **ViewModel**: Responsible for preparing data for the UI and handling business logic.
 3. **Repository**: Responsible for data fetching from the API using Retrofit.
 4. **UI (View)**: Observes data changes through LiveData and updates the user interface accordingly.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
